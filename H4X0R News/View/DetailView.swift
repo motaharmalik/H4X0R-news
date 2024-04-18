@@ -5,6 +5,10 @@
 //  Created by motahar malik on 18/04/2024.
 //
 
+// added all to github
+
+
+
 import SwiftUI
 
 struct DetailView: View {
